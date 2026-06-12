@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Titanic Survival Prediction
 
 ## Intern Details
@@ -47,3 +48,7 @@ Model Accuracy: 81.01%
 ## Author
 
 Priya Dharshini
+=======
+# Titanic-Survival-Prediction
+Titanic Survival Prediction using Machine Learning and Random Forest Classifier. This project predicts passenger survival based on features such as age, gender, passenger class, fare, and family information.
+>>>>>>> 8af0ca1c3f25869684387c422c36e711ec5f4e0c
