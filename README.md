@@ -45,4 +45,4 @@ Model Accuracy: 81.01%
    py titanic_survival_prediction.py
 
 ## Author
-Priya Dharshini
+B PRIYA DHARSHINI
